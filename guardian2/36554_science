@@ -1,0 +1,29 @@
+Researchers hope mapping how mutated gene produces animals’ white patches may lead to medical advances
+
+Scientists have solved what shall henceforth be known as the piebald mystery: by discovering the origins of the broad white patches that can adorn the belly and head fur of cats, dogs and farm animals.
+
+The distinctive patterns were known to be caused by a mutated gene, but how the faulty DNA produced the signature white bellies and other splashes of light on animals’ coats was far from clear.
+
+The discovery has led researchers to a mathematical model that describes how the curious patterns arise through the movement and growth of pigment cells when the animals are still growing in the womb.
+
+The formula could help scientists understand not just the variations of animal colourings but also more serious, related conditions called neurocristopathies that cause deafness, gut disorders, heart defects and cancer in humans when cells fail to move to the right positions.
+
+“We’re interested in the patterning because it’s an analogy for these more serious diseases,” said Christian Yates, a mathematical biologist and senior author on the study at Bath University.
+
+To work out how the patterns formed, the scientists tracked the fates of pigment cells called melanocytes in mouse embryos that carried mutations in a gene called Kit. The mutated gene is known to be the main cause of piebald patterns.
+
+One leading theory held that the patterns were caused by the mutated Kit gene slowing down the migration of pigment cells. The cells are produced at the back of the embryo and move through the skin towards the front as the animal develops in the womb. If the cells moved too slowly, they would never reach the front of the animal, leaving the belly, and some other regions such as the head, dominated by white patches. 
+
+But Yates and colleagues at Edinburgh University found that if anything, pigment cells moved faster in mice with mutated Kit genes. What caused the piebald patterning was a different consequence of the mutation: the cells did not multiply as well as they moved through the skin, leaving the animals’ underbellies and extremities often devoid of the pigment needed to make dark fur.
+
+Writing in the journal Nature Communications, the researchers describe how they went on to build a mathematical model that used factors such as the movement and growth of cells to reproduce piebald patterns. They found that even a small drop in the rate at which cells multiplied was enough to produce the characteristic white patches.
+
+The work could steer research into human disorders such as Waardenburg syndrome, a form of congenital deafness, Hirschsprung’s disease, caused by a failure of nerve cells to grow properly into the gut, and Ondine’s curse, a form of sleep apnoea that can be fatal. 
+
+Among the scientists’ results are hints of why two people with the same mutation might experience different severities of disease. Unexpectedly, the pigment cells moved and multiplied at random, said Richard Mort, the first author on the study. 
+
+When cells are plentiful, such random effects even out, and have little impact on an animal’s health. But neurocristopathies often mean too few cells have reached the right place in the body, and random differences in how these cells develop could lead to huge differences in an animal’s health.
+
+“There’s a randomness in the way the cells behave which means that the white patch you get is never the same, even in genetically identical individuals,” said Ian Jackson, a senior author on the study at Edinburgh University. 
+
+“You could have a situation where genetically identical twins would have the same disease, but to a different degree because of the random nature.”

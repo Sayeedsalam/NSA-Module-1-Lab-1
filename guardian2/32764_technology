@@ -1,0 +1,31 @@
+Murdock’s work helped fuse an insistence on excellence with a public commitment to open, ethical software development, writes Doc Searls
+
+Ian Murdock, who died in San Francisco on 28 December, was the co-creator of the Debian, the Linux distribution he founded while an undergraduate at Indiana’s Purdue University in 1993.
+
+The circumstances of Murdock’s death have not been made public. After praising Murdock for the good work he did for the company and the world, a statement from his most recent employer Docker added that “Ian’s family has requested that well-wishers and press respect their privacy and direct all inquiries through Docker”.
+
+Back in 1993, Linux itself was less than two years old and a year away from version 1.0. Collaborating with him was his then-wife Deborah Lynn – she was the Deb of Debian, and he was the ian. He also created the apt-get package manager.
+
+Let’s pause here to explain what those are, because our lives would likely not be the same without them. 
+
+First, Linux is the operating system on which countless websites and services, such as Google’s and Amazon’s, are built. It is embedded in many billions of devices, such as Android phones. That’s because choosing to build software on Linux today is kind of like choosing to build a house using frame construction. You’re going to put your floors, walls, ceilings and roof on a frame of studs, joists, headers and braces. Linux, or something like it (such as the derivative of a competitor that lies at the base of Apple’s OS X) is the hidden stuff on top of which all the visible stuff is added.
+
+But Linux is just what’s called a kernel. What makes the kernel useful is a distribution you might compare to the truck that hauls in your building materials. Then your main tool box is the package manager. With the apt-get command, software installs itself. In a 2007 blog post, Murdock explained why package management was “the biggest advancement Linux brought to the industry”.
+
+“It used to be that operating systems were big, monolithic products, and applications were big, monolithic products you put on top of them,” he wrote.
+
+“If you wanted to deploy, say, a web application, you sourced the middleware stack (which itself was probably several big products too), you sourced the operating system, and you (often painfully) had to integrate the two yourself – or pay a big company lots of money to do it for you.
+
+“These days, you increasingly just ‘apt-get install whatever’.”
+
+Debian and apt-get succeeded for organizational as well as technical reasons. Like Linux, Debian was produced and constantly improved by a community of programmers who shared common beliefs and principles about how code should be created, improved and shared. 
+
+His principle was to produce the best code for the most people, and that principle won't die
+
+Guiding that process was the Debian Manifesto, which Murdock posted in January 1994. Writes Cory Doctorow: “The Debian project fundamentally shifted the way free/open code got made by fusing an insistence on engineering excellence with a public declaration of the ethical nature of doing free software development.” 
+
+Docker adds that “in fact the formative document of the open source movement itself (the Open Source Definition) was originally a Debian position statement”.
+
+While he stayed involved with Debian after his college years, Murdock moved on to other work in the software industry, serving at the Linux Foundation, Sun Microsystems and Salesforce before landing at Docker. 
+
+Throughout those years, he always subordinated his personal work, and even his technical preferences, to the principles that produce the best code for the most people. Those principles won’t die, and are proved every time we use code Murdock wrote or inspired – something none of us who use technology can avoid.

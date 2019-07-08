@@ -1,0 +1,37 @@
+Yasmine has a six-year-old Vista laptop that does all she needs. But time is running out, and she finds Internet Explorer 9 limiting
+
+I’m (still) on Vista Home Premium SP2. My Acer Aspire 6930G is nearly six years old but it does everything I need, except I can’t upgrade beyond IE9 and that is increasingly limiting. I could change to another browser but I find Firefox quite flaky and would rather avoid Google products if possible – and I understand that Chrome support for Vista is going soon anyway.
+
+Can I still upgrade to Windows 7 (and then, later, onwards and upwards) and, if so, how? Yasmine
+
+Windows Vista shipped in November 2006 – nine years ago – and Microsoft will stop supporting Vista SP2 in April 2017. I don’t expect the wailing and gnashing of teeth that accompanied the end of Windows XP in 2014, because of Vista’s tiny market share (it’s roughly the same as Linux). None the less, Vista users should be planning to migrate to something else.
+
+According to your email, your Acer Aspire 6930G has an Intel Core Duo P7450 processor with 4GB of memory. Reviews suggest this machine also had a dedicated graphics card that made it suitable for some gaming, so check the system info to see if you have a Nvidia 9600M GT installed. Some models also had Blu-ray drives.
+
+Since you’re not a gamer, I can well understand why your Acer does everything you need. The P7450 processor is almost as fast as a new quad-core Pentium N3540, which is one of the best Atom-based chips of its generation (Bay Trail). In fact, CPU Boss says a single P7450 core is actually faster than an N3540 core. Obviously, the P7450 loses on built-in graphics (it scores 0.0), but if you have a dedicated graphics card, that’s not a problem.
+
+The problem is that if you buy a cheap Windows 10 machine with 2GB of memory, it could well be slower than your old Acer. You might have to go for something with an Intel Core i3-4020Y or hotter Intel Core i3-2310M or better to get a faster laptop. In its day, the Aspire 6930G was probably a very good Minecraft machine, so last week’s column will give you some useful hardware tips. (What’s the best laptop for running Minecraft?)
+
+I don’t share your view of Firefox: it’s my main browser. Try the current version 43 to see if you still think it’s flaky. I find it rarely crashes nowadays, though I use the Session Manager extension so I can reload tabs if the auto-reload fails.
+
+I do share your wariness of Google, but it’s easy to do without Chrome. I’ve replaced Chrome with the Vivaldi browser, which is now in beta testing. Vivaldi is based on the open source Chromium code and runs almost all Chrome extensions. Other current browsers based on Chromium include Comodo Dragon, Torch, and Opera. Like Chrome, they all consume too many resources.
+
+Google has announced that, from April 2016, it will stop supporting Chrome on “Windows Vista, and Mac OS X 10.6, 10.7, and 10.8, since these platforms are no longer actively supported by Microsoft and Apple”. Google really ought to know that Vista SP2 will be supported until April 2017. Either way, you would still be able to use Firefox, which “doesn’t select arbitrary dates for ending OS support”.
+
+Maxthon is another option. Maxthon uses the rendering engines from both IE and Chrome, and there’s a button to switch between them. (I assume it’s based on Chromium and therefore excludes the proprietary code that Google adds in Chrome.) Maxthon would avoid some of IE9’s limitations while enabling you to get most of the benefits of Chrome.
+
+You can upgrade from Vista to Windows 7, but I’m not sure about Windows 10. Acer has listed the machines for which it will provide driver support, and the 6930G isn’t among them. The Driver Scape website has a download page for the 6930G, and this includes some Windows 10 drivers, but it may not be possible to get everything working correctly.
+
+The main drawback with upgrading from Vista to Windows 7 is the cost, but you may be able to find a cheap, legal upgrade disc. Alternatively, you might be able to find a full retail or OEM version of Windows 7, and Amazon offers a “refurbished” version for £29.90.
+
+Windows 7 will be supported until 2020, so consider how much it would be worth to you to keep your Acer running for another four years. If it’s worth £1 a month – and I think it is – then £48 is a reasonable amount to pay for a Windows upgrade. It might even be worth £1 a week, but I’d rather put £210 towards the cost of a new laptop.
+
+Another option is to try GNU Linux, which is free. The latest Linux Mint 17.3 is a “long term support release which will be supported until 2019” – not quite as long as Windows 7. However, this depends on whether or not you need any software that doesn’t run natively on Linux (Apple iTunes, Adobe Photoshop, Microsoft Office, QuickBooks etc). You must also learn how to set up, run and maintain a new system that – whatever its fans claim – beginners generally do not find particularly friendly.
+
+It’s not unusual for a Windows PC to last for six or eight years. However, it’s also not unusual for hard drives to fail after five or six years. It should be easy to replace the hard drive in your Acer 6930G, and it won’t break the bank, but you must make sure you have a good backup to DVD or to an external hard drive.
+
+Also, Vista SP1 and SP2 include a program to create a recovery disc. Go to the Start menu, select All programs, find the Maintenance folder, and click on Create a Recovery Disc. (In Windows 7, it’s “Create a System Repair Disc”.) If you haven’t done this, do it now!
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com
+
+ This article contains affiliate links, which means we may earn a small commission if a reader clicks through and makes a purchase. All our journalism is independent and is in no way influenced by any advertiser or commercial initiative. By clicking on an affiliate link, you accept that third-party cookies will be set. More information. 

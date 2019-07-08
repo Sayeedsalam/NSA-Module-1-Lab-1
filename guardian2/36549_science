@@ -1,0 +1,101 @@
+The countdown conundrum cracked: how to solve it and my pick of your best solutions
+
+Earlier today I set you the following puzzles. Fill in the blanks so that these equations make arithmetical sense:
+
+10 9 8 7 6 5 4 3 2 1 = 2016, and
+
+4 4 4 4 4 = 2016
+
+The solutions
+
+First I’d like to say THANK YOU to the hundreds of people who left solutions at the bottom of the question post, on the Guardian Facebook page, on Twitter with the hashtag #MondayPuzzle and in emails to me.
+
+I’ve been totally overwhelmed by the quantity and variety of solutions - and quite embarrassed that my own was so boring!
+
+Evidently there is no unique solution - I was half hoping a computer scientist would let me know exactly how many solutions there are with only the four basic operations. Maybe someone will...
+
+Before we get to my favourites, I’ll explain how I did it myself. Since a fair amount of you were struggling.
+
+The way to solve this type of puzzle is through “enlightened” trial and error. My approach always begins by factorising the year, in this case 2016. Factorising means dividing in to smaller and smaller pieces so that all is left is a string of prime numbers.
+
+2016 breaks down into 2 x 2 x 2 x 2 x 2 x 3 x 3 x 7, which is the same as 25 x 32 x 7
+
+When I saw this I thought that I would leave 7 as it is, and then try to make 25 and 32 (32 and 9) out of (10 9 8) and (6 5 4 3 2 1).
+
+If this worked I’d have (10 9 8) x 7 x (6 5 4 3 2 1) = 2016
+
+I quickly noticed that 10 – 9 + 8 = 9. And then playing around that
+
+(6x5) - 4 + 3 + 2 + 1 = 32.
+
+So I had a solution: (10 – 9 + 8) x 7 x ((6x5) – 4 + 3 + 2 + 1) = 2016
+
+It is a pretty dull solution though. The most elegant has to be this one, tweeted earlier by James Annan (and subsequently by others):
+
+(10 x 9 x 8 x 7 x 6)/(5 + 4 + 3 + 2 + 1) = 2016
+
+#MondayPuzzle (10+9)*(8*(7+6))+5*(4+3+2-1) or 10*9*8*7*6/(5*(4-3)*(2+1)) but the best has to be 10*9*8*7*6/(5+4+3+2+1) @alexbellos
+
+I also found this one very clean:
+
+@alexbellos #mondaypuzzle solution pic.twitter.com/wOh828EU9k
+
+And this one too.
+
+You can do it without brackets! 10 x 9 + 8 + 7 * 6 + 5 ^ 4 x 3 + 2 -1 #mondaypuzzle @alexbellos
+
+I also asked for you to come up with your most creative solutions using different mathematical operations. I found Adam’s particularly innovative, since he managed to use modular arithmetic and base 5 logarithms! But log5 24 = 1.975, so his expression is only equal to 2015.8. Nice try...
+
+@alexbellos Here's my lunchtime attempt... pic.twitter.com/St3qqwWs7j
+
+I award my runner up prize to Muhammad Khairy, for his marvellous solution with seven factorials and five square roots.
+
+But my favourite is this one since it uses square roots, powers, modular arithmetic (mod 7776 for heaven’s sake), factorials and even trigonometry. Well done Sebastian! I’ll send you a copy of my book.
+
+@alexbellos Hehe, I made an account just to post this ridiculous thing: [(10*sqrt(9)*8! / 7) modulo 6^5] + 4!*3!*2! + arccos(1)
+
+There may have been other good ones but I ran out of time...
+
+Now the second problem.
+
+The solution is (4 + 4) (44 – 4) = 2016
+
+This is how I solved it:
+
+As someone who thinks about numbers quite a lot I looked at 2016 and it reminded me of 2048, which is one of the powers of two. If you start with two, and double it repeatedly you will soon get to 2048.
+
+2048 = 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 = 211
+
+I also realised that if you are going to multiply five fours together, you only get 1024:
+
+4 x 4 x 4 x 4 x 4 = 1024
+
+So the solution was probably going to feature 44  = 256
+
+Now lets return to 2016, the number we want to get to.
+
+If we half it we get 1008, and if we half it again we get 504, and if we half it again we get 252.
+
+HOLD ON!!!
+
+This number is 256 – 4.
+
+Which is 44 – 4.
+
+So, 44 – 4 = 2016/8 
+
+Multiplying by 8:
+
+ 8 x (44 – 4) = 2016
+
+(4 + 4) (44 – 4) = 2016
+
+Thanks again for taking part. It has been an extremely fun day. I’ll be back with another puzzle in two weeks.
+
+I post a puzzle here on a Monday every two weeks.
+
+My most recent book is the mathematical adult colouring book Snowflake Seashell Star. (In the US its title is Patterns of the Universe.)
+
+You can check me out on Twitter, Facebook, Google+ and my personal website.
+
+And if know of any great puzzles that you would like me to set here, get in touch.
